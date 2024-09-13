@@ -1,6 +1,6 @@
 # Default values for Yaku components
 
-# Global values used by all subcharts
+# Global values used by all sub-charts
 global:
   # The name that will prefix deployment pods' names. Default value is: yaku
   fullName: "yaku"
